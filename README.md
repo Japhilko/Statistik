@@ -1,6 +1,6 @@
 # Statistik
 
-Hochrechnungsverfahren
+In diesem Repo möchte ich wichtige Schlagworte der Statistik und interessante Links zusammenführen. 
 
 
 ## Imputation
@@ -12,4 +12,8 @@ Hochrechnungsverfahren
 - [US Census Imputation](https://www.census.gov/topics/research/stat-research/expertise/missing-data.html)
 
 - [Imputation - der Umgang mit fehlenden Werten](https://www.spektrum.de/news/imputation-der-umgang-mit-fehlenden-werten/1635682)
+
+## Residualdiagnostik
+
+## Hochrechnungsverfahren
 
