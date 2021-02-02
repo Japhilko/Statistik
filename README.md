@@ -17,3 +17,6 @@ In diesem Repo möchte ich wichtige Schlagworte der Statistik und interessante L
 
 ## Hochrechnungsverfahren
 
+## Small Area Schätzer
+
+- []
