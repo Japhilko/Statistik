@@ -20,3 +20,11 @@ In diesem Repo möchte ich wichtige Schlagworte der Statistik und interessante L
 ## Small Area Schätzer
 
 - []
+
+## [Momentenmethode](https://de.wikipedia.org/wiki/Momentenmethode#:~:text=Die%20Momentenmethode%20ist%20eine%20Sch%C3%A4tzmethode,Sch%C3%A4tzer%20werden%20als%20Momentensch%C3%A4tzer%20bezeichnet.)
+
+## EM Algorithmus
+
+## [Diskriminanzanalyse](
+
+
