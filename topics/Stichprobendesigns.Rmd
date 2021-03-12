@@ -31,3 +31,5 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Sand/Bruch - komlexe Stichprobendesigns](https://www.gesis.org/fileadmin/user_upload/MeettheExperts/GESIS_Meettheexperts_Stichproben.pdf)
 
 - [Gabler/Quatember - Repräsentativität von Subgruppen](https://link.springer.com/content/pdf/10.1007/s11943-013-0132-3.pdf)
+
+- [Klumpenstichprobe](http://www.mesosworld.ch/lerninhalte/Grund_Stichprob/de/html/Probabilistisch_learningObject4.html)
