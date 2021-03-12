@@ -1,0 +1,33 @@
+---
+title: "Stichprobendesign"
+author: "Jan-Philipp Kolb"
+date: "12 3 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## [Geschichtete Stichproben](https://www.wiwiweb.de/stichprobentheorie/hochrechnung/klumpen-und-geschichtete-stichproben/geschichtete-stichproben.html)
+
+- Grundgesamtheit kann natürlich in Schichten zerfallen
+- In den Schichten wird getrennt zufällig eine Stichprobe gezogen
+- In den Schichten kann bspw. ein Mittelwert genauer geschätzt werden
+- Es gelingt das Gesamtmittel effizienter zu schätzen. Damit ist vor allem gemeint, dass die Varianz geringer ausfallen wird.
+- Wenn man Sekundärinformationen hat, können diese als Schichtungsmerkmal verwendet werden
+
+- Für die Auswertung ist es nötig die Schichtzugehörigkeit und den Umfang der Schichten in der Grundgesamtheit zu kennen. 
+
+- Stichprobenumfang wird in den Schichten getrennt voneinander festgelegt
+
+## Fragen für die Erstellung eines Stichprobendesigns
+
+- Was ist die Untersuchungseinheit?
+- Wie homogen/hetrogen sind die Schichten?
+
+## Weitere Quellen
+
+- [Sand/Bruch - komlexe Stichprobendesigns](https://www.gesis.org/fileadmin/user_upload/MeettheExperts/GESIS_Meettheexperts_Stichproben.pdf)
+
+- [Gabler/Quatember - Repräsentativität von Subgruppen](https://link.springer.com/content/pdf/10.1007/s11943-013-0132-3.pdf)
